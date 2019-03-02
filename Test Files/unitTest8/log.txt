@@ -1,0 +1,12 @@
+START PROCESSING FILE: Test 1 Crozzle_scoreNewWords.txt
+END PROCESSING FILE: Test 1 Crozzle_scoreNewWords.txt
+
+START PROCESSING FILE: Test 1 Configuration.txt
+END PROCESSING FILE: Test 1 Configuration.txt
+
+START PROCESSING FILE: Test 1 Wordlist_scoreNewWords.txt
+END PROCESSING FILE: Test 1 Wordlist_scoreNewWords.txt
+
+START PROCESSING CROZZLE:
+END PROCESSING CROZZLE:
+

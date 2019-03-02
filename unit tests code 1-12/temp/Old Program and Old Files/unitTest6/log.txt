@@ -1,0 +1,34 @@
+START PROCESSING FILE: Test 1 Crozzle_checkDuplicates.txt
+END PROCESSING FILE: Test 1 Crozzle_checkDuplicates.txt
+
+START PROCESSING FILE: Test 1 Configuration_checkDuplicates.txt
+END PROCESSING FILE: Test 1 Configuration_checkDuplicates.txt
+
+START PROCESSING FILE: Test 1 Wordlist_checkDuplicates.txt
+END PROCESSING FILE: Test 1 Wordlist_checkDuplicates.txt
+
+START PROCESSING CROZZLE:
+END PROCESSING CROZZLE:
+
+START PROCESSING FILE: Test 1 Crozzle_checkDuplicates.txt
+END PROCESSING FILE: Test 1 Crozzle_checkDuplicates.txt
+
+START PROCESSING FILE: Test 1 Configuration_checkDuplicates.txt
+END PROCESSING FILE: Test 1 Configuration_checkDuplicates.txt
+
+START PROCESSING FILE: Test 1 Wordlist_checkDuplicates.txt
+END PROCESSING FILE: Test 1 Wordlist_checkDuplicates.txt
+
+START PROCESSING FILE: Test 1 Crozzle_checkDuplicates.txt
+END PROCESSING FILE: Test 1 Crozzle_checkDuplicates.txt
+
+START PROCESSING FILE: Test 1 Configuration.txt
+END PROCESSING FILE: Test 1 Configuration.txt
+
+START PROCESSING FILE: Test 1 Wordlist_checkDuplicates.txt
+END PROCESSING FILE: Test 1 Wordlist_checkDuplicates.txt
+
+START PROCESSING CROZZLE:
+error 1: code 11003: the number of times RON occurs is 2, but this is not within [1, 1]
+END PROCESSING CROZZLE:
+

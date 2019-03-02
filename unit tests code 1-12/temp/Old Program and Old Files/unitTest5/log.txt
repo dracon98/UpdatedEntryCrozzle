@@ -1,0 +1,14 @@
+START PROCESSING FILE: Test 1 Crozzle_invalidScore.txt
+END PROCESSING FILE: Test 1 Crozzle_invalidScore.txt
+
+START PROCESSING FILE: Test 1 Configuration.txt
+END PROCESSING FILE: Test 1 Configuration.txt
+
+START PROCESSING FILE: Test 1 Wordlist.txt
+END PROCESSING FILE: Test 1 Wordlist.txt
+
+START PROCESSING CROZZLE:
+error 1: code 11002: the number of horizontal words intersecting AL is 0, but this is not within [1, 100]
+error 2: code 11005: the number of groups of connected words is 2, but this is not within [1, 1]
+END PROCESSING CROZZLE:
+

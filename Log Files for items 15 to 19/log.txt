@@ -1,0 +1,78 @@
+START PROCESSING FILE: Test1.czl
+END PROCESSING FILE: Test1.czl
+
+START PROCESSING FILE: Test1.cfg
+END PROCESSING FILE: Test1.cfg
+
+START PROCESSING FILE: Test1.seq
+END PROCESSING FILE: Test1.seq
+
+START PROCESSING FILE: Test2.czl
+END PROCESSING FILE: Test2.czl
+
+START PROCESSING FILE: Test2.cfg
+END PROCESSING FILE: Test2.cfg
+
+START PROCESSING FILE: Test2.seq
+END PROCESSING FILE: Test2.seq
+
+START PROCESSING FILE: Test3.czl
+error 1: code 5001: invalid symbol in crozzle file item (HORIZONTAL-SEQUENCES-LOCATION=6,11)
+error 2: code 3001: row value (aaa) is not an integer
+error 3: code 3002: column value (bbb) is not an integer
+error 4: code 9002: word data (HORIZONTAL-SEQUENCES-SEQUENCE=,LOCATION=3,2) is missing data in field 1
+error 5: code 9001: 4 fields in word data (HORIZONTAL-SEQUENCES-SEQUENCE=MARY,6,4), instead of 5
+error 6: code 9001: 4 fields in word data (HORIZONTAL-SEQUENCES-SEQUENCE=GARY,LOCATION=8), instead of 5
+error 7: code 9004: word (?A?K?E) is not alphabetic
+error 8: code 3001: row value (1.5) is not an integer
+error 9: code 9003: word (BILL) is not in the word list
+error 10: code 9003: word (CHARLES) is not in the word list
+END PROCESSING FILE: Test3.czl
+
+START PROCESSING FILE: Test3.cfg
+error 1: code 1004: key-value pair (BGCOLOUR-EMPTY-TD=777777), colour is not a Hex colour code
+error 2: code 1004: key-value pair (BGCOLOUR-NON-EMPTY-TD=#), colour is not a Hex colour code
+error 3: code 2001: invalid symbol in configuration item (CROZZLESIZE)
+error 4: code 2001: invalid symbol in configuration item (MINIMUM-ROWS=4)
+error 5: code 2001: invalid symbol in configuration item (MAXIMUM-ROWS=400)
+error 6: code 2001: invalid symbol in configuration item (MINIMUM-COLUMNS=4)
+error 7: code 2001: invalid symbol in configuration item (MAXIMUM-COLUMNS=400)
+error 8: code 2001: invalid symbol in configuration item (END-CROZZLESIZE)
+error 9: code 2001: invalid symbol in configuration item (DUPLICATE-SEQUENCES-MIN=0)
+error 10: code 2001: invalid symbol in configuration item (DUPLICATE-SEQUENCES-MAX=0)
+error 11: code 6004: missing value in key-value pair (INTERSECTING-POINTS-B=)
+error 12: code 6005: missing = symbol in key-value pair (INTERSECTING-POINTS-C,2)
+error 13: code 1001: key-value pair (INTERSECTING-POINTS-D=XXXX), value is not an integer
+error 14: code 1007: key (CROZZLE-SIZE-MINIMUM-ROWS) is missing from the configuration file
+error 15: code 1007: key (CROZZLE-SIZE-MAXIMUM-ROWS) is missing from the configuration file
+error 16: code 1007: key (CROZZLE-SIZE-MINIMUM-COLUMNS) is missing from the configuration file
+error 17: code 1007: key (CROZZLE-SIZE-MAXIMUM-COLUMNS) is missing from the configuration file
+error 18: code 1007: key (DUPLICATE-SEQUENCES-MINIMUM) is missing from the configuration file
+error 19: code 1007: key (DUPLICATE-SEQUENCES-MAXIMUM) is missing from the configuration file
+error 20: code 1008: key (B) is missing from the intersection points
+error 21: code 1008: key (C) is missing from the intersection points
+error 22: code 1008: key (D) is missing from the intersection points
+error 23: code 1010: the value of SEQUENCES-IN-FILE-MINIMUM is 10 which is greater than the counterpart maximum value of 1
+error 24: code 1010: the value of SEQUENCES-IN-CROZZLE-MAXIMUM-HORIZONTAL is 2 which is greater than the counterpart maximum value of 1
+error 25: code 1010: the value of INTERSECTIONS-IN-SEQUENCES-MAXIMUM-VERTICAL is 2 which is greater than the counterpart maximum value of 1
+error 26: code 1010: the value of VALID-GROUPS-MINIMUM is 2 which is greater than the counterpart maximum value of 1
+END PROCESSING FILE: Test3.cfg
+
+START PROCESSING FILE: Test3.seq
+error 1: code 10005: the word in field ANGELA* of the wordlist is compatible with the requirement
+error 2: code 10006: the total ASCII number of word ANGELA* is not the same as expected
+error 3: code 10008: the total number validation of word ANGELA* is not the same as expected
+error 4: code 10005: the word in field  of the wordlist is compatible with the requirement
+error 5: code 10005: the word in field *** of the wordlist is compatible with the requirement
+error 6: code 10005: the word in field SIT323 of the wordlist is compatible with the requirement
+error 7: code 10007: the character length of word GEORGE is not the same as expected
+error 8: code 10008: the total number validation of word GEORGE is not the same as expected
+error 9: code 10006: the total ASCII number of word GRAHAM is not the same as expected
+error 10: code 10008: the total number validation of word JILL is not the same as expected
+error 11: code 10008: the total number validation of word JOHNATHON is not the same as expected
+error 12: code 10010: the total length point for all row is not the same as expected
+error 13: code 10009: the total ASCII point for all row is not the same as expected
+error 14: code 10012: the total Accumulation point for all row is not the same as expected
+error 15: code 10004: the wordlist size (27) is more than the expected maximum (1)
+END PROCESSING FILE: Test3.seq
+

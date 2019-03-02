@@ -1,0 +1,24 @@
+START PROCESSING FILE: Test 1 Crozzle_groupCount2.txt
+END PROCESSING FILE: Test 1 Crozzle_groupCount2.txt
+
+START PROCESSING FILE: Test 1 Configuration_groupCount2.txt
+END PROCESSING FILE: Test 1 Configuration_groupCount2.txt
+
+START PROCESSING FILE: Test 1 Wordlist_groupCount2.txt
+END PROCESSING FILE: Test 1 Wordlist_groupCount2.txt
+
+START PROCESSING CROZZLE:
+END PROCESSING CROZZLE:
+
+START PROCESSING FILE: Test 1 Crozzle_groupCount4.txt
+END PROCESSING FILE: Test 1 Crozzle_groupCount4.txt
+
+START PROCESSING FILE: Test 1 Configuration_groupCount4.txt
+END PROCESSING FILE: Test 1 Configuration_groupCount4.txt
+
+START PROCESSING FILE: Test 1 Wordlist_groupCount4.txt
+END PROCESSING FILE: Test 1 Wordlist_groupCount4.txt
+
+START PROCESSING CROZZLE:
+END PROCESSING CROZZLE:
+
